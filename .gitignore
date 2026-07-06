@@ -1,0 +1,14 @@
+.DS_Store
+
+# Go build artifacts
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Coverage reports
+.coverprofile
